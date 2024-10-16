@@ -7,7 +7,7 @@ I am particularly dedicated to full-stack development, where I combine front-end
 
 In addition to coding, I frequently train my skills in cybersecurity, focusing on pentesting and system security to stay up-to-date with the latest practices.
 
-When I'm not coding or learning about security, you can find me experimenting with prototyping platforms like Arduino and Raspberry Pi, exploring Linux distributions, or discovering new design tools to enhance user experience.
+When I'm not coding or learning about security, you will find me experimenting with prototyping platforms like Arduino and Raspberry Pi, exploring Linux distributions, or discovering new design tools to enhance user experience.
 
 Let's connect and share ideas! 🚀
 
