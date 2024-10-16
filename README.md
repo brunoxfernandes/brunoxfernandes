@@ -1,11 +1,11 @@
 <img src="./readme-cover.svg" width="100%"/>
 
 ## Hi, I'm Bruno Fernandes 🔥
-I am a programmer passionate about technology, always striving to learn and improve. I have experience in various programming languages, frameworks, and tools, with the goal of creating efficient, scalable, and intuitive software solutions.
+I am a programmer passionate about technology, always striving to learn and improve. I have experience in various programming languages, frameworks, and tools, with the goal of creating efficient, scalable, and intuitive tech solutions.
 
 I am particularly dedicated to full-stack development, where I combine front-end skills (React, JavaScript, TypeScript) with back-end experience (Node.js, Express, PHP) to build complete web applications. I also enjoy working on mobile projects, using frameworks like React Native and Cordova to develop cross-platform solutions.
 
-In addition to coding, I frequently train my skills in cybersecurity, focusing on penetration testing and system security to stay up-to-date with the latest practices.
+In addition to coding, I frequently train my skills in cybersecurity, focusing on pentesting and system security to stay up-to-date with the latest practices.
 
 When I'm not coding or learning about security, you can find me experimenting with prototyping platforms like Arduino and Raspberry Pi, exploring Linux distributions, or discovering new design tools to enhance user experience.
 
